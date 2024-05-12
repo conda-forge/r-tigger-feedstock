@@ -3,6 +3,7 @@ About r-tigger-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tigger-feedstock/blob/main/LICENSE.txt)
 
+
 About r-tigger
 --------------
 
@@ -11,6 +12,7 @@ Home: http://tigger.readthedocs.io
 Package license: AGPL-3.0-only
 
 Summary: Infers the V genotype of an individual from immunoglobulin (Ig) repertoire sequencing data (AIRR-Seq, Rep-Seq). Includes detection of any novel alleles. This information is then used to correct existing V allele calls from among the sample sequences. Citations: Gadala-Maria, et al (2015) <doi:10.1073/pnas.1417683112>. Gadala-Maria, et al (2019) <doi:10.3389/fimmu.2019.00129>.
+
 About r-tigger
 --------------
 
